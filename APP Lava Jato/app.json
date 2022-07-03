@@ -1,0 +1,44 @@
+{
+  "expo": {
+<<<<<<< HEAD
+    "name": "lava-jato-app",
+    "slug": "lava-jato-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/android/drawable-xxxhdpi/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/img/splash.png",
+=======
+    "name": "blog",
+    "slug": "blog",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+>>>>>>> 1cd7ae213cc5a6975abcb2cc9595de24e14dafe9
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
